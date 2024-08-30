@@ -15,6 +15,10 @@ Respecting copyright is a crucial aspect of Lyrics Collage. While it uses lyrics
 ![ChatGPT - Black in Black - Lyrics Collage](https://github.com/user-attachments/assets/3f7e4cdc-e688-4161-a003-fe178e84e57a)
 
 #
+
+![Luyrics Collage](https://github.com/user-attachments/assets/315c13fe-7443-42df-9b76-f3ec721bf607)
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
