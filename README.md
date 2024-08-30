@@ -16,7 +16,7 @@ Respecting copyright is a crucial aspect of Lyrics Collage. While it uses lyrics
 
 #
 
-![Luyrics Collage](https://github.com/user-attachments/assets/315c13fe-7443-42df-9b76-f3ec721bf607)
+![Lyrics Collage](https://github.com/user-attachments/assets/315c13fe-7443-42df-9b76-f3ec721bf607)
 
 #
 ### Related Links
