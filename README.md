@@ -24,6 +24,8 @@ Respecting copyright is a crucial aspect of Lyrics Collage. While it uses lyrics
 [Playlist Generator](https://github.com/sourceduty/Playlist_Generator)
 <br>
 [Dormant Music Files](https://github.com/sourceduty/Dormant_Music_Files)
+<br>
+[Song Audio Value](https://github.com/sourceduty/Song_Audio_Value)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
